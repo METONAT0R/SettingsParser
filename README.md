@@ -1,5 +1,6 @@
 # SettingsParser
-File that creates and modifies entries for UserSettings.xml
+Class that creates and modifies entries for UserSettings.xml
+Features on GameLauncherReborn 3.0 as Advanced Game Settings.
 
 ## USAGE
 
