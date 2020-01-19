@@ -11,6 +11,6 @@ using MeTonaTOR;
 //........
 
 SettingsParser xmlFile = new SettingsParser();
-xmlFile.setAudioMode(1);
-xmlFile.setAudioQuality(2);
+xmlFile.AudioMode = 2;
+xmlFile.AudioQuality = 1;
 ```
